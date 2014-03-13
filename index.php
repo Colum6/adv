@@ -22,15 +22,7 @@
   
  
  </div>
- <div class="contLeft">
-  <div class="contLeftWrap">
-  <div class="menuButton menuActive" id="hrefTo1">О филиале</div>
-  <div class="menuButton "  id="hrefTo2">Адвокаты</div>
- <div class="menuButton" id="hrefTo3">Новости</div>
- </div>
- 
- 
- </div>
+
  <div id="content">
   
   <div class="wrap" id="main1">
