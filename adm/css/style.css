@@ -1,0 +1,61 @@
+html, body {
+    cursor: default;
+    height: 100%;
+    position:relative;
+    min-height:100%;
+   
+    
+}
+body {  
+    overflow: auto;
+    font-family:Arial,sans-serif;
+  
+    }
+#container{
+    width: 100%;
+    min-height: 100%;
+    height: 100%;
+}
+#content {
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
+    position: relative;
+
+}
+
+
+.loginWrap{
+    background-color: #FFF;
+width: 360px;
+margin: 0 auto;
+margin-bottom: 0px;
+padding: 30px;
+padding-top: 20px;
+padding-bottom: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

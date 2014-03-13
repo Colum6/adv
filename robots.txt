@@ -1,0 +1,3 @@
+User-agent: *
+disallow: /blocks/
+disallow: /adm/
