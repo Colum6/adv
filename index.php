@@ -12,7 +12,6 @@
     
 
        
-	<title>Коллегия адвокатов ХМАО г.Сургут филиал №8</title>
 </head>
 
 <body>
@@ -26,7 +25,7 @@
  <div id="content">
   
   <div class="wrap" id="main1">
-   <h1 class="topH1">О филиале</h1>
+ 
    <div class="topBlockLine">
     <div class="topBlockLeft"></div>
     <div class="topBlockCenter"></div>
