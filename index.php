@@ -18,12 +18,7 @@
 <body>
 <div id="container">
  <div class="header"> 
-  <div class="headerWrap">
-   <a href="index.php"><div class="topHeader">КОЛЛЕГИЯ АДВОКАТОВ</div>
-   <div class="leftHeader">ХАНТЫ-МАНСИЙСКОГО АВТОНОМНОГО ОКРУГА</div></a>
-   <div class="rightHeader">Филиал № 8 г.Сургут</div>
-   <div class="bottomHeader"></div>
-  </div>
+
   
  
  </div>
